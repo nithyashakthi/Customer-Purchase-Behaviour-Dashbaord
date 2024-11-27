@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nithyashakthi
-- 👀 I’m interested in web application development,data analysis and fullstack development 
+- 👀 I’m interested in Data Analyst and Cloud Computing.
 - 🌱 I’m currently learning fullstack development....
 - 
 - 💞️ I’m looking to collaborate on ...
