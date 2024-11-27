@@ -1,13 +1,46 @@
-- 👋 Hi, I’m @nithyashakthi
-- 👀 I’m interested in Data Analyst and Cloud Computing.
-- 🌱 I’m currently learning fullstack development....
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :-bnithya808@gmail.com ...
-- 
-- ⚡ Fun fact: ...
+#Customer Purchase Behavior Dashboard
+Description:
+This project features a comprehensive Excel dashboard designed to analyze and visualize customer purchase behavior. 
+It explores customer demographics, purchase trends, and financial insights to aid in understanding buying patterns and spending habits.
 
-<!---
-nithyashakthi/nithyashakthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Features
+Demographic Analysis:
+Detailed customer information, including age, gender, location, and annual income.
+
+Purchase Trends:
+Insights into order categories, purchase frequency, and spending patterns over time.
+
+Financial Summary:
+Aggregated annual income data, segmented by gender, providing a high-level overview of customer earnings.
+
+- Files in the Repository
+final_excel_dashboard.xlsx:
+A multi-sheet Excel file containing:
+Customer Data (customer): Demographics, browsing behavior, purchase history, and product reviews.
+Order Details (order): Transactional data with purchase dates, categories, and spending amounts.
+Income Summary (Sheet3): Aggregated annual income figures by gender.
+Placeholder (Sheet4): Empty sheet reserved for future use.
+
+- How to Use
+Open the final_excel_dashboard.xlsx file using Microsoft Excel or compatible software.
+
+Explore individual sheets for specific data insights:
+
+Use the customer sheet to examine customer profiles and behavior.
+Dive into the order sheet for transactional and category-level analysis.
+Refer to Sheet3 for aggregated income metrics.
+Integrate the data with visualization tools like Power BI to build interactive dashboards.
+
+- Prerequisites
+Software:
+Microsoft Excel 
+
+- Contribution
+We welcome contributions! If you’d like to enhance this dataset or create additional analyses, feel free to:
+
+* Fork the repository.
+* Make your changes.
+* Submit a pull request for review.
+  
+- License
+This project is released under the MIT License, allowing you to use, modify, and distribute it freely.
