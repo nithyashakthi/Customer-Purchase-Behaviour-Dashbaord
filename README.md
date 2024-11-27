@@ -42,11 +42,20 @@ Software: Microsoft Excel
 Contribution
 We welcome contributions! If you’d like to enhance this dataset or create additional analyses, feel free to:
 
-1.Fork the repository.
+Fork the repository.
 
-2.Make your changes.
+Make your changes.
 
-3.Submit a pull request for review.
+Submit a pull request for review.
 
 License
 This project is released under the MIT License, allowing you to use, modify, and distribute it freely.
+
+Dashboard:-(https://github.com/nithyashakthi/Customer-Purchase-Behaviour-Dashbaord/final_excel_dashboard.xlsx)
+
+Contact
+For any questions or feedback, feel free to reach out:
+
+Email: bnithya808@gmail.com
+
+LinkedIn: Your LinkedIn Profile
