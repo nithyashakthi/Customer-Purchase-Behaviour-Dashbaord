@@ -24,6 +24,7 @@ Customer Purchase Behavior Dashboard
 - Placeholder (Sheet4): Empty sheet reserved for future use.
 
 - How to Use
+- 
   1.Open the final_excel_dashboard.xlsx file using Microsoft Excel or compatible software.
 
   2.Explore individual sheets for specific data insights:
@@ -34,7 +35,7 @@ Customer Purchase Behavior Dashboard
 
      - Refer to Sheet3 for aggregated income metrics.
 
-   3. Integrate the data with visualization tools like Power BI to build interactive dashboards.
+  3. Integrate the data with visualization tools like Power BI to build interactive dashboards.
 
   Prerequisites
     - Software: Microsoft Excel
