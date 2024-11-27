@@ -3,8 +3,8 @@ Customer Purchase Behavior Dashboard
    This project features a comprehensive Excel dashboard designed to analyze and visualize customer purchase behavior. It explores customer demographics, purchase trends, and financial insights to aid in understanding buying patterns and spending habits.
 
 - Features
-          - Demographic Analysis
-                Detailed customer information, including age, gender, location, and annual income.
+   - Demographic Analysis
+   -Detailed customer information, including age, gender, location, and annual income.
 
 - Purchase Trends
    Insights into order categories, purchase frequency, and spending patterns over time.
